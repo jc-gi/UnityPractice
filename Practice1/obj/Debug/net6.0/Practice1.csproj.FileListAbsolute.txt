@@ -1,0 +1,15 @@
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\Practice1.exe
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\Practice1.deps.json
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\Practice1.runtimeconfig.json
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\Practice1.dll
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\ref\Practice1.dll
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\bin\Debug\net6.0\Practice1.pdb
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.csproj.AssemblyReference.cache
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfoInputs.cache
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.AssemblyInfo.cs
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.csproj.CoreCompileInputs.cache
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.dll
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\ref\Practice1.dll
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.pdb
+B:\UTR\Videogames\Workspace\UnityPractice\Practice1\obj\Debug\net6.0\Practice1.genruntimeconfig.cache
